@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ## Run Code
-- The training set of nuclei images `train.zip` and a csv training file `train.csv` containing their identities are present in [data] folder. This folder also contains test archive `test.zip` which has similar 64x64 images of unlabelled cell nuclei.  
+- The training set of nuclei images `train.zip` and a csv training file `train.csv` containing their identities are present in [data](https://github.com/Salman184/cell-nuclei-identification/tree/main/data) folder. This folder also contains test archive `test.zip` which has similar 64x64 images of unlabelled cell nuclei.  
 - Unzip those training and test images to a repository.  
 - Run the provided `cellNucleiIdentify.ipynb` notebook file in the same repository.  
 
